@@ -12,6 +12,8 @@ This repository serves as API endpoint of Quarto Connect app's announcement.
 - `startOn {string}` - Announcement only appears after this date, format `yyyy-MM-dd HH:mm:ss` (UTC)
 - `endOn {string}` - Announcement dissapear after this date, format `yyyy-MM-dd HH:mm:ss` (UTC)
 
+** Strings are UTF-8 encoded.
+
 ![](docs/res/announcement_sample.png)
 
 ## How to make new announcement in app?

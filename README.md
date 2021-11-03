@@ -2,6 +2,8 @@
 
 This repository serves as API endpoint of Quarto Connect app's announcement.
 
+API hosted on [GitHub Pages](https://lintramax.github.io/quarto-connect-announcement/)
+
 ## API JSON scheme
 
 ![](docs/res/v1_scheme.png)

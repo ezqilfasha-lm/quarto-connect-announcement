@@ -2,7 +2,8 @@
 
 This repository serves as API endpoint of Quarto Connect app's announcement.
 
-API hosted on [GitHub Pages](https://lintramax.github.io/quarto-connect-announcement/)
+API hosted on [GitHub Pages](https://lintramax.github.io/quarto-connect-announcement/), append path `api/[variant]/announcement_v1.json` and it becomes app endpoints.
+
 
 ## API JSON scheme
 

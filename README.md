@@ -19,9 +19,9 @@ API hosted on [GitHub Pages](https://lintramax.github.io/quarto-connect-announce
 
 ![](docs/res/announcement_sample.png)
 
-## How to make new announcement in app?
+## How to make new announcement for QC app?
 
-1. Find `announcement_v1.json` in desired variant. e.g `api/release`
+1. Under this repo find `announcement_v1.json` in desired variant. e.g `api/release`
 2. Update the json content accordingly.
 
 App users will receive the announcement in their app once the update is reflected on GitHub Pages.

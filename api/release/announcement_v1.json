@@ -1,7 +1,7 @@
 {
-  "bannerText": "Please be advised that there will be System Updates from 5 PM to 10 PM on 18-07-2022. Service will be unavailable during this period.",
+  "bannerText": "Please be advised that there will be System Updates from 5 PM to 11 PM on 18-07-2022. Service will be unavailable during this period.",
   "dialogTitle": "System Update Announcement",
-  "dialogBody": "Please be advised that there will be System Updates from 5 PM to 10 PM on 18-07-2022.\nService will be unavailable during this period.",
+  "dialogBody": "Please be advised that there will be System Updates from 5 PM to 11 PM on 18-07-2022.\nService will be unavailable during this period.",
   "startOn": "2022-07-18 00:00:00",
-  "endOn": "2022-07-18 14:00:00"
+  "endOn": "2022-07-18 15:59:59"
 }

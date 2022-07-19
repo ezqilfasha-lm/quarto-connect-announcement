@@ -1,7 +1,7 @@
 {
   "bannerText": "Please be advised that the System Updates from 18-07-2022 to 19-07-2022. Service will be unavailable during this period.",
   "dialogTitle": "System Update Announcement",
-  "dialogBody": "Please be advised that there will be System Updates from 18-07-2022 to 19-07-2022.\nService will be unavailable during this period.\nSorry for the inconvenience cause.",
+  "dialogBody": "Please be advised that there will be System Updates from 18-07-2022 to 19-07-2022.\nService will be unavailable during this period.\nSorry for the inconvenience caused.",
   "startOn": "2022-07-18 00:00:00",
   "endOn": "2022-07-19 16:00:00"
 }

@@ -1,7 +1,7 @@
 {
-  "bannerText": "Please be advised that the System Updates is still ongoing. Service will be available as soon as possible.",
-  "dialogTitle": "System Update Announcement",
-  "dialogBody": "Please be advised that the System Updates is still ongoing.\nService will be available as soon as possible.\nYour patience is very much appreciated.",
+  "bannerText": "Quarto Connect v2022.07.003 is available at Play Store for Update.",
+  "dialogTitle": "App Update Available",
+  "dialogBody": "Quarto Connect v2022.07.003 is available at Play Store for Update.",
   "startOn": "2022-07-18 00:00:00",
   "endOn": "2022-07-20 16:00:00"
 }

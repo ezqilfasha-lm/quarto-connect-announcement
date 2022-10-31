@@ -1,7 +1,7 @@
 {
-  "bannerText": "Quarto Connect v2022.07.003 is available at Play Store for Update.",
-  "dialogTitle": "App Update Available",
-  "dialogBody": "Quarto Connect v2022.07.003 is available at Play Store for Update.",
-  "startOn": "2022-07-18 00:00:00",
-  "endOn": "2022-07-20 16:00:00"
+  "bannerText": "Please be advised that there will be System Updates from 21-11-2022 (5:00PM) to 22-11-2022. Service will be unavailable during this period.",
+  "dialogTitle": "System Update Announcement",
+  "dialogBody": "Please be advised that there will be System Updates from 21-11-2022 (5:00PM) to 22-11-2022.\nService will be unavailable during this period.",
+  "startOn": "2022-11-01 00:00:00",
+  "endOn": "2022-11-22 16:00:00"
 }

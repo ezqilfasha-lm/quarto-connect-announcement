@@ -1,7 +1,7 @@
 {
   "bannerText": "URGENT! MAKE SURE any record is uploaded BEFORE 21-11-2022. Please be advised that there will be System Updates from 21-11-2022 (5:00PM) to 22-11-2022.",
   "dialogTitle": "System Update Announcement",
-  "dialogBody": "URGENT! MAKE SURE any record is uploaded BEFORE 21-11-2022. \r\nPlease be advised that there will be System Updates from 21-11-2022 (5:00PM) to 22-11-2022.",
+  "dialogBody": "URGENT! MAKE SURE any record is uploaded BEFORE 21-11-2022. \r\n\r\nPlease be advised that there will be System Updates from 21-11-2022 (5:00PM) to 22-11-2022.",
   "startOn": "2022-11-01 00:00:00",
   "endOn": "2022-11-22 16:00:00"
 }
